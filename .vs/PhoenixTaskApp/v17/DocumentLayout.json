@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|c:\\rinat\\phoenixtask\\phoenixtaskapp\\controllers\\accounttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFAB0EF-4F6F-40E3-9D05-6088D8E0D774}|PhoenixTaskApp.csproj|solutionrelative:controllers\\accounttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 237,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,6 +75,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountTransactionController.cs",
+              "DocumentMoniker": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Controllers\\AccountTransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountTransactionController.cs",
+              "ToolTip": "C:\\Rinat\\PhoenixTask\\PhoenixTaskApp\\Controllers\\AccountTransactionController.cs",
+              "RelativeToolTip": "Controllers\\AccountTransactionController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:21:09.164Z",
+              "EditorCaption": ""
             }
           ]
         }
